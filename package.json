@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MiguelAngel0201/Web-JsFetch/issues"
   },
-  "homepage": "https://github.com/MiguelAngel0201/Web-JsFetch#readme"
+  "homepage": "https://github.com/MiguelAngel0201/Web-JsFetch#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
 }
