@@ -1,0 +1,20 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "**Proyecto Web Personal**, aquí dejaré mis anotaciones del curso de Bluuweb acerca de este tema, los capítulos tendrán estos temas:\r - Fetch API 1 - Introduccion.\r - Fetch API 2 - Consumir API pública.\r - Fetch API 3 - Crear tabla dinámica JSON.\r - Fetch API 4 - Enviar datos por método POST a PHP.",
+  "main": "1.js",
+  "scripts": {
+    "test": "git add -A && git commit -m \"Añadiendo cambios ...\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngel0201/Web-JsFetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAngel0201/Web-JsFetch/issues"
+  },
+  "homepage": "https://github.com/MiguelAngel0201/Web-JsFetch#readme"
+}
