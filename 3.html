@@ -13,12 +13,25 @@
   <link rel="stylesheet" href="./identidad.css">
 </head>
 
-<body>
+<body class="bg-dark text-light">
   <div class="container my-5">
     <div class="row">
       <div class="col-12">
         <h1>Fetch API 3 - Crear tabla dinámica JSON</h1>
       </div>
+      <table class="table table-light">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Email</th>
+            <th scope="col">Estado</th>
+          </tr>
+        </thead>
+        <tbody id="contenido">
+
+        </tbody>
+      </table>
     </div>
   </div>
   <script src="./3.js"></script>
